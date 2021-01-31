@@ -9,8 +9,20 @@
 
 #different method
 
-lst=[1,2,3,5]
-low=0
+#lst=[1,2,3,5]
+#low=0
+#up=len(lst)-1
+#element=int(input("Enter the element:"))
+#while(low<up):
+#    tot=lst[low]+lst[up]
+#    if(element==tot):
+#        print(lst[low],lst[up])
+#        break
+#    else:
+#        low+=1
+
+lst=[1,2,3,4,5,7]
+low =0
 up=len(lst)-1
 element=int(input("Enter the element:"))
 while(low<up):
@@ -18,7 +30,8 @@ while(low<up):
     if(element==tot):
         print(lst[low],lst[up])
         break
-    else:
+    elif(element>tot):
         low+=1
-
+    else:
+        up-=1
 

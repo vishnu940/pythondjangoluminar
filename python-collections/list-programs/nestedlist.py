@@ -6,6 +6,13 @@ students=[
     [14,"tom","mca",180],
     [15,"jain","mca",250],
 ]
+
+#print total of sum of total
+marks=0
+for std in students:
+    marks=marks+std[3]
+print("Total of marks=",marks)
+
 #print the name of students
 #for stud in students:
 #    print(stud[1])
