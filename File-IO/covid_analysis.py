@@ -14,6 +14,7 @@ f=open("covid_19_india.csv","r")
 dict={}
 for lines in f:
     data=lines.rstrip("\n").split(",")
+
     #state and confirmed cases
     state=data[3].rstrip("***")
     if(state=="Telengana"):
@@ -24,7 +25,7 @@ for lines in f:
         dict[state]=confirmed_cases
     else:
         dict[state]=confirmed_cases
-
+print(dict)
 for k,v in dict.items():
     print(k,"====>",v)
 #print the states with highest cases
