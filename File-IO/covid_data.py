@@ -7,6 +7,11 @@ for lines in f:
     if id not in covid:
         covid[id]={"id":id,"date":date,"time":time,"state":state,"indian":indian,"foreign":foreign,"cured":cured,
                    "death":death,"confirmed":confirmed}
+    else:
+        covid[id] = {"id": id, "date": date, "time": time, "state": state, "indian": indian, "foreign": foreign,
+                     "cured": cured,
+                     "death": death, "confirmed": confirmed}
+
         #print(covid[id])
 
 def covid_data(**kwargs):

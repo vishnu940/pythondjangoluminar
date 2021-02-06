@@ -8,6 +8,7 @@ for lines in f:
 
     if id not in student:
         student[id]={"id":id,"name":name,"total":total,"course":course}
+
 print(student)
 
 
