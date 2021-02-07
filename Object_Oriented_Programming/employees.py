@@ -10,8 +10,14 @@ class Employ:
     def print_employ(self):
         print(self.id,self.name,self.desig)
 
+    def __str__(self):
+        return self.name
+
+
 obj=Employ(1024,"Employee1","BA")
 obj.print_employ()
 
 obj1=Employ(1026,"Employee2","PG")
 obj1.print_employ()
+print(obj)
+print(obj1)

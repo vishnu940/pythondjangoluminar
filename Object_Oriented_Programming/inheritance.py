@@ -1,3 +1,5 @@
+#Single inheritance
+
 class Parent:
     def my_phone(self):
         print("I have samsung galaxy s8")
