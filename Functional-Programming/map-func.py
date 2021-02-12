@@ -73,3 +73,15 @@ lst=[10,11,12,13,14]
 
 low=reduce(lambda n1,n2:n1 if n1<n2 else n2,lst)
 print(low)
+
+#Assignment
+#find the common elements from the two lists
+#[1,2,3,4] [2,4,5,6,8]
+
+l1=[1,2,3,4]
+l2=[2,4,5,6,8]
+
+s1=set(l1)
+s2=set(l2)
+std=s1.intersection(s2)
+print(std)

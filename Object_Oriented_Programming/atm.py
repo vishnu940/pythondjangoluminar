@@ -32,4 +32,3 @@ obj=Bank()
 obj._Bank__deposit()
 obj.withdraw()
 obj.bal_enq()
-

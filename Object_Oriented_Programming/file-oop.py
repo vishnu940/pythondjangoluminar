@@ -68,7 +68,7 @@ lowsal=min(sallist)
 for emp in emplist:
     if emp.salary==lowsal:
         print(emp)
-        
+
 
 
 
