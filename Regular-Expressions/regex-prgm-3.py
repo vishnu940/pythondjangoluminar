@@ -3,7 +3,7 @@
 from re import *
 
 #pattern="a"#check for any number of a
-#pattern="a+"#check for any number of a excluding 0 number of a
+pattern="a+"#check for any number of a excluding 0 number of a
 #pattern="a*" #check for any number of a including 0 number of a
 #pattern ="a?"#check any number of a(takes single a), including 0 number of a
 #pattern="a{2}"#check for 2 number of a
