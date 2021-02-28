@@ -1,0 +1,40 @@
+.top{
+    background-color: indianred;
+    height:100px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    text-align: center;
+    padding-top: 5px;
+}
+.bottom{
+    background-color:peru;
+    height: 100px;
+    width: 50%;
+    margin-left: 25%;
+    /*margin-bottom: 20%;*/
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 2%;
+
+}
+.demo{
+    background-color: saddlebrown;
+    height: 80px;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 2%;
+    
+}
+.demo2{
+    background-color: aqua;
+    height: 80px;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 2%;
+    padding-top: 5px;
+    
+}

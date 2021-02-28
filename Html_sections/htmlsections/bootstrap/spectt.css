@@ -1,0 +1,60 @@
+.d1{
+    background-color:cornflowerblue;
+    height: 500px;
+    width: 15%;
+    margin-left: 8%;
+    margin-top: 10%;
+    float: left;
+}
+.d2{
+    background-color: darkcyan;
+    height: 500px;
+    width: 15%;
+    float: left;
+    margin-left: 1%;
+    margin-top: 10%;
+    
+}
+
+.d3{
+    background-color: skyblue;
+    height: 500px;
+    width: 15%;
+    float: left;
+    margin: 10%;
+    margin-left: 1%;
+}
+.d4{
+    background-color:tan;
+    height: 500px;
+    width: 15%;
+    float: left;
+    margin: 10%;
+    margin-left: -9%;
+   
+}
+.d5{
+    background-color: maroon;
+    height: 500px;
+    width: 15%;
+    float: left;
+    margin-left: -9%;
+    margin-top: 10%;
+}
+
+
+.head{
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    font-weight: bold;
+    color: maroon;
+    margin: 3%;
+    
+}
+
+.main{
+    margin-top: 5%;
+}
+.main2{
+    margin-top: -9%;
+}

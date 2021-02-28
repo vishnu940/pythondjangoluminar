@@ -1,0 +1,17 @@
+.top{
+    height: 80px;
+    width: 50%;
+    background-color: aqua; 
+    margin-right: 30%;
+    padding-right: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    
+}
+.bottom{
+    background-color: bisque;
+    width: 30%;
+    height: 80px;
+    margin-left: 23%;
+    padding-right: 10px;
+}

@@ -1,0 +1,49 @@
+.d1{
+    background-color: darkcyan;
+    height: 500px;
+    width: 15%;
+    margin-top: 4%;
+    margin-left: 14%;
+}
+.d2{
+    background-color: lightblue;
+    float: left;
+    height: 500px;
+    width: 15%;
+    
+    margin-left:30%;
+    margin-top:-33%
+    
+}
+.head{
+    text-align: center;
+    
+}
+.d3{
+    background-color: lightskyblue;
+    height: 500px;
+    width: 15%;
+    margin-left: 46%;
+    margin-top: -33%
+}
+h1{
+    font-family: 'Kaushan Script', cursive;
+    font-weight: bold;
+    color: maroon;
+}
+.d4{
+    background-color:navajowhite;
+    height: 500px;
+    width: 15%;
+    margin-left: 62%;
+    margin-top: -33%;
+}
+.d5{
+    background-color:darkred;
+    height: 500px;
+    width: 15%;
+    margin-left: 64%;
+    margin-top: -33%;
+    margin-left: 78%;
+    
+}

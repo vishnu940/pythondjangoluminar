@@ -1,0 +1,25 @@
+/* 
+can select by using tag name,id,class{
+    property:value;
+    property1:value;
+}
+
+*/
+
+h1{
+    color: rgb(52, 107, 235);
+}
+body{
+    background-color:rgb(198, 235, 52);
+}
+h2{
+    color: rgb(213, 52, 235);
+}
+
+h3{
+    color: rgb(235, 52, 70);
+}
+
+h4{
+    color: rgb(235, 146, 52);
+}

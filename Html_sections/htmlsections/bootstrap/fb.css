@@ -1,0 +1,61 @@
+.fbimg{
+    position:absolute;
+    top:25%;
+    left: 15%;
+}
+.header{
+    position: absolute;
+    top: 38%;
+    left: 17%;
+    font-family: inherit;
+    font-size: 25px;
+    font-weight: 500;
+}
+.txt1{
+    
+    width: 20%;
+    position: absolute;
+    top: 20%;
+    left: 52%;
+    
+}
+.passwd{
+    width: 20%;
+    position: absolute;
+    top: 28%;
+    left: 52%;
+
+}
+.btn{
+    position: absolute;
+    top:50%;
+    width: 45%;
+    left: 36%;
+    top:38%;
+   
+}
+.btn{
+    font-size: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.frgtpasswd{
+    font-family:inherit;
+    font-size: 14px;
+    position:absolute;
+    top:48%;
+    left:58% ;
+}
+.btn2{
+    position: absolute;
+    width: 45%;
+    top:60%;
+    left:36%
+}
+.main2{
+    background-color:lightgray;
+    height: 400px;
+    width: 28%;
+    position:absolute;
+    left: 48%;
+    top: 15%;
+}

@@ -1,0 +1,22 @@
+.head1{
+    background-color: lightcoral;
+    height: 60x;
+}
+.about{
+    background-color: lightsalmon;
+    
+}
+#abt{
+    text-decoration: underline;
+}
+.crs{
+    background-color: moccasin;
+}
+#crud{
+    text-decoration: underline;
+    padding-top: 3%;
+    padding-left: 5%;
+}
+#lst{
+    padding-left: 6%;
+}

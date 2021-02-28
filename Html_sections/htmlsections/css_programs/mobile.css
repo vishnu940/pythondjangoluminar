@@ -1,0 +1,100 @@
+body{
+    background-color: darkgray;
+    background-image: url("img3.jpg");
+    
+}
+h1{
+    color: rgb(235, 88, 52);
+    text-align: center;
+}
+
+#nokia{
+    background-color: lightsalmon;
+    color:rgb(235, 100, 52)
+    
+    
+    
+}
+#samsung{
+    background-color: maroon;
+    color:rgb(52, 88, 235)
+    
+}
+#nk{
+    color: darkgoldenrod;
+    text-align: center;
+   
+}
+#nokia{
+    border-style: solid;
+    background-color: darkblue;
+    border-width: 1px;
+    width: 30%;
+    text-align: center;
+}
+#smg{
+    color: rgb(52, 235, 58);
+    text-align: center;
+
+}
+#samsung
+{
+    border-style: solid;
+    background-color: brown;
+    border-width: 2px;
+    width: 30%;
+    text-align: center;
+}
+#redmi{
+    background-color: lightcoral;
+    color: steelblue;
+    text-align: center;
+}
+#mi{
+    color: honeydew;
+    text-align: center;
+}
+#redmi{
+    border-style: solid;
+    background-color: indigo;
+    border-width: 2px;
+    width: 30%;
+    text-align: center;
+}
+#plus{
+    background-color: darkslategray;
+    color: lemonchiffon;
+    border-style: solid;
+    border-width: 2px;
+    width: 30%;
+    text-align: center;
+}
+#op{
+    color: firebrick;
+    text-align: center;
+}
+#apple{
+    background-color: antiquewhite;
+    color:darkred;
+
+}
+#iphone{
+    color:sienna;
+    text-align: center;
+}
+#apple{
+    border-style: solid;
+    border-width: 2px;
+    width: 30%;
+    background-color: lightsalmon;
+    border-color: lightslategrey;
+}
+
+.first{
+    border-style: solid;
+    background-color: darkblue;
+    border-width: 2px;
+    width: 30%;
+    border-color: maroon;
+    text-align: center;
+}

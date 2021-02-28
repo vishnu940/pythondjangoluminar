@@ -1,0 +1,26 @@
+.top{
+    background-color: aqua;
+    height: 100px;
+    width: 50%;
+    margin-left: 25%;
+    padding-left: 10%;
+    padding-top: 25px;
+    margin-top: 5%;
+    font-size: 64px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 650;
+    text-decoration:underline;
+}
+.bottom{
+    background-color: lightcoral;
+    height: 100px;
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 25px;
+    margin-top: 11%;
+    padding-left: 14%;
+    font-size: 64px;
+    font-family: monospace;
+    font-weight: 750;
+    
+}
