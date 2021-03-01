@@ -1,0 +1,49 @@
+.d1{
+    background-color: teal;
+    height: 500px;
+    width: 15%;
+    position: absolute;
+    top:20%;
+    left: 12%;
+}
+.d2{
+    background-color: chocolate;
+    height: 500px;
+    width: 15%;
+    position: absolute;
+    top:20%;
+    left:28%;
+}
+.d3{
+    background-color: darkslategray;
+    height: 500px;
+    width: 15%;
+    position: absolute;
+    top:20%;
+    left:44%;
+}
+.d4{
+    background-color:skyblue;
+    height: 500px;
+    width: 15%;
+    position: absolute;
+    top:20%;
+    left:60%;
+}
+.d5{
+    background-color: lightcoral;
+    height: 500px;
+    width: 15%;
+    position: absolute;
+    top:20%;
+    left:76%;
+}
+.head{
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    font-weight: bold;
+    color: maroon;
+    position: absolute;
+    top:5%;
+    left:20%;
+}
