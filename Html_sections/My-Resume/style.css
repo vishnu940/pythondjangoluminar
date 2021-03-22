@@ -1,0 +1,221 @@
+/*#24303a
+
+*/
+hr{
+    color:gray;
+}
+body{
+    background-color:#edf0f5;
+}
+img{
+    border-radius: 50%;
+}
+.col2{
+    background-color:#24303a ;
+    height: 200px;
+    width: 1200px;
+    position: absolute;
+    right: 20px;
+
+}
+.namehead{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+.ptxt{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: relative;
+    bottom:20px;
+    left:20px;
+}
+.email{
+    position:relative;
+    top:50px;
+    
+}
+.emailtxt{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.edu{
+    position: relative;
+    top:45px;
+    right:200px;
+    width: 50px;
+    color: #24303a;
+}
+hr.new5 {
+    border: 2px solid #425061;
+    border-radius: 2px;
+  }
+
+.r3{
+    position: relative;
+    top:50px;
+}
+.phntxt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.ed1{
+    
+    position: relative;
+    right: 200px;
+}
+
+.r4{
+    position: relative;
+    top:80px;
+}
+.addtxt{
+    font-family: font-family: Arial, Helvetica, sans-serif;
+}
+.ed2{
+    position: relative;
+    right: 200px;
+}
+.r5{
+    position: relative;
+    top:100px;
+}
+.ed3{
+    position: relative;
+    right: 200px;
+}
+.skls {
+    border: 1px solid gray;
+    border-radius: 1px;
+    width: 50px;
+    background-color: gray;
+    color: white;
+
+
+  }
+
+.r6{
+    position:relative;
+    top:120px;
+    color: #24303a;
+}
+.skls2 {
+    border: 1px solid gray;
+    border-radius: 1px;
+    width: 70px;
+    background-color: gray;
+    color: white;
+    
+
+}
+.skills{
+    color: #24303a;
+}
+.acd{
+    color: #24303a;
+    position: relative;
+    right: 200px;
+}
+.achr{
+    position:relative;
+    right: 200px;
+}
+.prds{
+    position:relative;
+    right:200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.works{
+    position: relative;
+    top:20px;
+    right:200px;
+}
+.whr{
+    position: relative;
+    right:200px;
+    top:20px;
+}
+.wtxt{
+    position: relative;
+    top:20px;
+    right:200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.lang{
+    position:relative;
+    top:150px;
+}
+.lanhr{
+    position: relative;
+    top:150px;
+}
+.eng{
+    position:relative;
+    top:150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.ml{
+    position:relative;
+    top:150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.hin{
+    position: relative;
+    top:150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.vcol{
+    position: relative;
+    top:150px;
+    right:200px;
+}
+.vltxt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:600;
+}
+.r8{
+    position: relative;
+    top:180px;
+}
+.intxt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.intrst {
+    border: 1px solid gray;
+    border-radius: 1px;
+    width: 120px;
+    height:30px;
+    border-color: gray;
+    border-style: solid;
+    border-width: 2px;
+}
+.intrst2 {
+    border: 1px solid gray;
+    border-radius: 1px;
+    width: 140px;
+    height:30px;
+    border-color: gray;
+    border-style: solid;
+    border-width: 2px;
+}
+.refers{
+    position:relative;
+    right:200px;
+}
+.rhr{
+    position:relative;
+    right:200px;
+}
+.rhrtxt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:600;
+    position: relative;
+    right:200px;
+}
