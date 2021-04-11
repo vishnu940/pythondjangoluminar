@@ -1,0 +1,81 @@
+.mth{
+    background-color: orangered;
+    height: 400px;
+    width: 40%;
+    position:relative;
+    left:300px;
+    top:50px;
+}
+#txt1{
+    position: relative;
+    left:50px;
+    top:30px;
+    height: 40px;
+    width: 400px;
+    
+}
+.btn1{
+    position: relative;
+    top:100px;
+    right: 320px;
+    height: 30px;
+    width: 50px;
+    background-color:#f0f2f5;
+}
+.btn2{
+    position: relative;
+    top:100px;
+    right:310px;
+    height: 30px;
+    width:50px;
+    background-color:#f0f2f5;
+}
+.btn3{
+    position: relative;
+    top:66px;
+    left:210px;
+    height: 30px;
+    width: 50px;
+    background-color:#f0f2f5;
+}
+.btn4{
+    position: relative;
+    top:100px;
+    left:220px;
+    top:67px;
+    height: 30px;
+    width: 50px;
+    background-color:indianred;
+}
+.btn5{
+    position: relative;
+    top:120px;
+    right: 22px;
+    height: 30px;
+    width: 50px;
+    background-color:#f0f2f5;
+}
+.btn6{
+    position: relative;
+    top:120px;
+    right: 12px;
+    height: 30px;
+    width: 50px;
+    background-color:#f0f2f5;
+}
+.btn7{
+    position: relative;
+    top:120px;
+    right: 4px;
+    height: 30px;
+    width: 50px;
+    background-color:#f0f2f5;
+}
+.btn8{
+    position: relative;
+    top:120px;
+    left: 5px;
+    height: 30px;
+    width: 50px;
+    background-color:indianred;
+}

@@ -1,0 +1,18 @@
+/*#f0f2f5*/
+
+.main{
+    height: 350px;
+    width: 50%;
+    background-color:#f0f2f5 ;
+    position: relative;
+    top:100px;
+    left: 25%;
+}
+.row2{
+    position: relative;
+    bottom:230px;
+}
+.btn{
+    position: relative;
+    left:10%;
+}

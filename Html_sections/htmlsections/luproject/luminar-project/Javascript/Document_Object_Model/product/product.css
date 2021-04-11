@@ -1,0 +1,9 @@
+.row1{
+    height: 350px;
+    width: 50%;
+    background-color: brown;
+    position: relative;
+    left: 25%;
+    top:100px;
+    padding-top: 40px;
+}

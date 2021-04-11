@@ -1,0 +1,36 @@
+.row1{
+    height: 400px;
+    width: 50%;
+    background-color: darkkhaki;
+    position: relative;
+    top:100px;
+    left:23%;
+
+}
+.username{
+    position: relative;
+    width:100%;
+}
+.password{
+    position: relative;
+    width:100%;
+}
+.amount{
+    position: relative;
+    width: 100%;
+}
+.btn{
+    position:relative;
+    width:100%;
+    background-color: #fb641b;
+}
+.formstyle{
+    position: relative;
+    right: 12%;
+    top:5%;
+}
+.btn2{
+    position:relative;
+    width:100%;
+    background-color: #ff9f00;
+}

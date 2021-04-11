@@ -1,0 +1,195 @@
+body{
+    background-color: #f0f2f5;
+}
+.row1{
+    background-color: #24303a;
+     
+}
+.imag{
+    position: relative;
+    top:10px;
+}
+.myname{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    position: relative;
+    left: 5%;
+    padding-top: 10px;
+}
+.border-line{
+    border: 1px solid black;
+    
+}
+.icons{
+    position: relative;
+    top:70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.education{
+    position: relative;
+    top:80px;
+
+}
+.edetails{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    position:relative;
+    top:10px;
+}
+.skill{
+    position: relative;
+    top:140px;
+}
+.myskills{
+    position: relative;
+    top:10px;
+    background-color: gray;
+    color: white;
+    width: 30%;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.skill2{
+    position: relative;
+    top:10px;
+    background-color: gray;
+    color: white;
+    width: 30%;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.skill3{
+    position: relative;
+    top:10px;
+    background-color: gray;
+    color: white;
+    width: 30%;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.skill4{
+    position: relative;
+    top:10px;
+    background-color: gray;
+    color: white;
+    width: 30%;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.skill5{
+    position: relative;
+    top:10px;
+    background-color: gray;
+    color: white;
+    width: 40%;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.skill6{
+    position: relative;
+    top:10px;
+    background-color: gray;
+    color: white;
+    width: 46%;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.accd{
+    position:relative;
+    top:140px;
+}
+.projects{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    position: relative;
+    top:10px;
+}
+.border-line2{
+    border: 1px solid black;
+    
+}
+.work{
+    position: relative;
+    top:140px;
+
+}
+.wrks{
+    position: relative;
+    top:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.lang{
+    position: relative;
+    top:140px;
+}
+.lgs{
+    position: relative;
+    top:10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.vltr{
+    position: relative;
+    top:180px;
+}
+.vlworks{
+    position: relative;
+    top:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.intr{
+    position: relative;
+    top:200px;
+    
+}
+.intr1{
+    position: relative;
+    top:10px;
+    border: 1px solid black;
+    width: 50%;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.intr2{
+    position: relative;
+    top:30px;
+    border: 1px solid black;
+    width: 50%;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.intr3{
+    position: relative;
+    top:50px;
+    border: 1px solid black;
+    width: 50%;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.intr4{
+    position: relative;
+    top:70px;
+    border: 1px solid black;
+    width: 50%;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.intr5{
+    position: relative;
+    top:90px;
+    border: 1px solid black;
+    width: 50%;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.refers{
+    position:relative;
+    top:300px;
+}
+.rs{
+    position: relative;
+    top:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
